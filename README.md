@@ -1,2 +1,2 @@
 # vfx-data-destroy
-A visual distortion plugin
+A new visual distortion plugin

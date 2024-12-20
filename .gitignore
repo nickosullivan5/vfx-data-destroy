@@ -7,6 +7,23 @@
 *.o
 *.obj
 
+
+# IDE configuration files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Windows
+Thumbs.db
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+build/
+
 # Precompiled Headers
 *.gch
 *.pch
